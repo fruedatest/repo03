@@ -6,6 +6,7 @@
     $ nano readme.md
     $ git status
     $ git add readme.md
+    $ git commit -m "commit001"
     $ git remote -v
     $ git remote add origin https://github.com/fruedatest/repo03.git
     $ git branch -M main
@@ -17,3 +18,11 @@
     $ git branch francisco03062022
     $ git checkout francisco03062022
 ```
+
+## Haz un commit en tu rama
+```
+    $ git commit -m "commit011francisco"
+```
+
+## Fusiona tu rama con master
+
