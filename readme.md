@@ -25,4 +25,8 @@
 ```
 
 ## Fusiona tu rama con master
-
+```
+    $ git checkout main
+    $ git merge francisco03062022
+    $ git push -u origin main
+```
